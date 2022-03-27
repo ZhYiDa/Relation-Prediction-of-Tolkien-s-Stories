@@ -1,4 +1,4 @@
-# RE-of-Tolkien-s-stories
+# Relation Prediction of Tolkien's Stories
 Relationship extraction of The Hobbit and The Lord of the Rings
 The project uses the sentences with characters' name to build a relation prediction model through DistilBERT.
 ## The Content and Source of the Tables
