@@ -25,4 +25,6 @@ These two parts are for the relation prediction. The model can reach higher accu
 ### Visualization with neo4j
 Through neo4j, we can do the visualization easily like this.
 ![graph (20)](https://user-images.githubusercontent.com/78463659/160290072-03446bc3-ee46-46b6-a516-bf65ade370d8.png)
-![graph (19)](https://user-images.githubusercontent.com/78463659/160290074-51c07bd0-379e-4a77-8faf-44cea6347369.png)
+![graph (17)](https://user-images.githubusercontent.com/78463659/160290895-4ae78379-5371-4952-97c1-a92ebd1d1e38.png)
+
+
